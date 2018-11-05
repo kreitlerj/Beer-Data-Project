@@ -1,146 +1,146 @@
 ,candidates,debug_log,error_message,status
-0,[],{'line': []},,ZERO_RESULTS
-1,[],{'line': []},,ZERO_RESULTS
-2,"[{'geometry': {'location': {'lat': 38.9512173, 'lng': -92.32797860000001}}, 'id': '2a4cae2eda24a0d7a1475aed8b7cecc5f37379a4', 'name': 'Broadway Brewery', 'rating': 4.3}]",{'line': []},,OK
-3,"[{'geometry': {'location': {'lat': 43.521052, 'lng': -114.3158921}}, 'id': '3a53971d087a5c1573775b6c729af5259567e318', 'name': 'Sun Valley Brewing Co', 'rating': 4}]",{'line': []},,OK
-4,[],{'line': []},,ZERO_RESULTS
-5,"[{'geometry': {'location': {'lat': 39.7534005, 'lng': -104.9984882}}, 'id': '87170c5a51a62f45f5361e357265b6089d8c4370', 'name': 'Wynkoop Brewing Company', 'rating': 4.1}]",{'line': []},,OK
-6,"[{'geometry': {'location': {'lat': 43.4668796, 'lng': -80.52322509999999}}, 'id': '0979194cc092958d29527d733680eb3293ec36f7', 'name': 'The Lion Brewery Restaurant', 'rating': 4.1}]",{'line': []},,OK
-7,"[{'geometry': {'location': {'lat': 42.2689619, 'lng': -89.0906164}}, 'id': '747b7b5a06b502c693ff01c78e8b4eddaeea7ed4', 'name': 'Carlyle Brewing Co.', 'rating': 4.6}]",{'line': []},,OK
-8,"[{'geometry': {'location': {'lat': 44.3052747, 'lng': -78.31983799999999}}, 'id': '2ee8937d72b0f5d85f8b62365e4baf96b3b0469e', 'name': 'Olde Stone Brewing Company', 'rating': 4.5}]",{'line': []},,OK
+0,"[{'geometry': {'location': {'lat': 37.44151069999999, 'lng': -122.1685813}}, 'id': '2b2887a4ca6d7e1e5abd1970ba8d1fdc9225fbad', 'name': 'Stanford Blood Draw at Hoover Pavilion', 'rating': 4.8}, {'geometry': {'location': {'lat': 35.4872651, 'lng': -120.667223}}, 'id': '99458dd34ce9abaf12307a3298b49b73c96b5bda', 'name': 'Hoovers 101 Cafe', 'rating': 0}]",{'line': []},,OK
+1,"[{'geometry': {'location': {'lat': 41.5853134, 'lng': -93.6209765}}, 'id': 'f49047f0f84bed56941a5a8e0e2fab741beff26a', 'name': 'Court Avenue Restaurant & Brewing Company', 'rating': 4.3}]",{'line': []},,OK
+2,"[{'geometry': {'location': {'lat': 38.0940901, 'lng': -122.5567687}}, 'id': '0363e731e2b6e138d9948501ea24e9fe51575cdf', 'name': ""Moylan's Brewing Company"", 'rating': 4.2}]",{'line': []},,OK
+3,"[{'geometry': {'location': {'lat': 40.0225428, 'lng': -75.2190327}}, 'id': 'bdff2165a865f018ac207f2263f47aa716646fe6', 'name': 'Manayunk Brewing Company', 'rating': 3.9}]",{'line': []},,OK
+4,"[{'geometry': {'location': {'lat': 48.65200859999999, 'lng': -72.4448723}}, 'id': 'd6f80addf706271eabc621fc1fc71ff0c116de02', 'name': 'Microbrasserie La Chouape', 'rating': 4.7}]",{'line': []},,OK
+5,"[{'geometry': {'location': {'lat': 42.7727232, 'lng': -71.0852745}}, 'id': '6f6144591b0fe912b48a63e049c8b6fd1b5906b7', 'name': 'The Tap Brewing Company', 'rating': 4.3}]",{'line': []},,OK
+6,"[{'geometry': {'location': {'lat': 41.254724, 'lng': -95.930883}}, 'id': 'aae0251ffe80ac69835dfcd260e791025a14f9e8', 'name': 'Upstream Brewing Company', 'rating': 4.3}]",{'line': []},,OK
+7,[],{'line': []},,ZERO_RESULTS
+8,"[{'geometry': {'location': {'lat': 42.8234105, 'lng': -76.92295969999999}}, 'id': '4920aaa2f09f74fb0deda413e4299f1b885b2124', 'name': 'War Horse Brewing Company', 'rating': 4.5}]",{'line': []},,OK
 9,[],{'line': []},,ZERO_RESULTS
-10,"[{'geometry': {'location': {'lat': 48.65200859999999, 'lng': -72.4448723}}, 'id': 'd6f80addf706271eabc621fc1fc71ff0c116de02', 'name': 'Microbrasserie La Chouape', 'rating': 4.7}]",{'line': []},,OK
-11,"[{'geometry': {'location': {'lat': 41.5853134, 'lng': -93.6209765}}, 'id': 'f49047f0f84bed56941a5a8e0e2fab741beff26a', 'name': 'Court Avenue Restaurant & Brewing Company', 'rating': 4.3}]",{'line': []},,OK
-12,"[{'geometry': {'location': {'lat': 34.4167478, 'lng': -119.6957697}}, 'id': '9f7aac9b7d68988fe6469a0d575737239eb6ad8f', 'name': 'Santa Barbara Brewing Company', 'rating': 4.1}]",{'line': []},,OK
-13,"[{'geometry': {'location': {'lat': 34.2357747, 'lng': -77.94890869999999}}, 'id': 'bccc9047a11601a8e858d41a33d10432baada379', 'name': 'Front Street Brewery', 'rating': 4.5}]",{'line': []},,OK
-14,[],{'line': []},,ZERO_RESULTS
-15,"[{'geometry': {'location': {'lat': 44.476539, 'lng': -73.21427899999999}}, 'id': '390803a31ae0dbf794be26e7288d55f24b9f45a2', 'name': 'Zero Gravity Brewpub at American Flatbread', 'rating': 4.7}]",{'line': []},,OK
-16,[],{'line': []},,ZERO_RESULTS
-17,"[{'geometry': {'location': {'lat': 39.2874294, 'lng': -81.53305540000001}}, 'id': '7a3c34d3528894b62cba2d83a75e3ded637c8675', 'name': 'North End Tavern & Brewery', 'rating': 4.5}]",{'line': []},,OK
-18,"[{'geometry': {'location': {'lat': 46.9474933, 'lng': 7.459673500000001}}, 'id': '32d22c96691364a489e5c21edd93f99907baaa00', 'name': 'Altes Tramdepot Brauerei & Restaurant', 'rating': 4.1}]",{'line': []},,OK
-19,"[{'geometry': {'location': {'lat': 53.5471128, 'lng': -113.5216829}}, 'id': 'd29efea7bdc4e11fffbbaa1dde5222e79764c491', 'name': 'Brewsters', 'rating': 4.1}]",{'line': []},,OK
-20,"[{'geometry': {'location': {'lat': 55.202774, 'lng': 9.993936999999999}}, 'id': '5c72b5d21cebebdc7d96ab969ca8c19f295b779b', 'name': 'Stensbogaard Bryghus', 'rating': 0}]",{'line': []},,OK
-21,"[{'geometry': {'location': {'lat': 41.254724, 'lng': -95.930883}}, 'id': 'aae0251ffe80ac69835dfcd260e791025a14f9e8', 'name': 'Upstream Brewing Company', 'rating': 4.3}]",{'line': []},,OK
+10,[],{'line': []},,ZERO_RESULTS
+11,[],{'line': []},,ZERO_RESULTS
+12,"[{'geometry': {'location': {'lat': 36.9591246, 'lng': -122.0481543}}, 'id': '5375bfa616c5416fea8af725b0b670dc8972d751', 'name': 'Santa Cruz Mountain Brewing', 'rating': 4.6}]",{'line': []},,OK
+13,"[{'geometry': {'location': {'lat': 32.0670288, 'lng': 34.7865586}}, 'id': '23e7d86cc02bdcd2234491ebf1fba46a8fe4e031', 'name': 'The Dancing Camel', 'rating': 4.5}]",{'line': []},,OK
+14,"[{'geometry': {'location': {'lat': 33.7385347, 'lng': -118.2842157}}, 'id': '2512da9cfc5487e9ece22def76a903665db71e22', 'name': 'San Pedro Brewing Company', 'rating': 4.4}]",{'line': []},,OK
+15,"[{'geometry': {'location': {'lat': 33.092128, 'lng': -96.6798589}}, 'id': '7d0f741fbd3212f70aac5de414565dd230a4bfe9', 'name': 'TwoRows Classic Grill', 'rating': 4.4}]",{'line': []},,OK
+16,"[{'geometry': {'location': {'lat': 33.8844674, 'lng': -118.4110587}}, 'id': '9ecedc58db0bff19040b8d0b17ad27e5792e7f1a', 'name': 'Brewco', 'rating': 4.3}]",{'line': []},,OK
+17,[],{'line': []},,ZERO_RESULTS
+18,[],{'line': []},,ZERO_RESULTS
+19,"[{'geometry': {'location': {'lat': 33.4486643, 'lng': -112.016724}}, 'id': '9d09ffc370a1c2cb44ced43eb72a802c8d1a968e', 'name': 'Sonoran Brewing Company', 'rating': 4.6}]",{'line': []},,OK
+20,"[{'geometry': {'location': {'lat': 39.643762, 'lng': -106.596242}}, 'id': '86209040677f7ace7a1151265031976275c9d5c3', 'name': 'Gore Range Brewery', 'rating': 4}]",{'line': []},,OK
+21,"[{'geometry': {'location': {'lat': 46.247208, 'lng': -114.154306}}, 'id': '15cd6d6315495b2d8469245d15d7f2264eeed358', 'name': 'Bitter Root Brewing', 'rating': 4.6}]",{'line': []},,OK
 22,[],{'line': []},,ZERO_RESULTS
-23,"[{'geometry': {'location': {'lat': 33.783107, 'lng': -117.893329}}, 'id': '0a27bca1fa81736ed119c3e50cbcefeee7240699', 'name': 'Alcatraz Brewing Company', 'rating': 3.8}]",{'line': []},,OK
-24,"[{'geometry': {'location': {'lat': 48.3917909, 'lng': -122.4957814}}, 'id': 'a50ea5ff3e8faa7d445de6286f35d043a0255333', 'name': 'La Conner Brewing Co', 'rating': 4.4}]",{'line': []},,OK
-25,"[{'geometry': {'location': {'lat': 39.643762, 'lng': -106.596242}}, 'id': '86209040677f7ace7a1151265031976275c9d5c3', 'name': 'Gore Range Brewery', 'rating': 4}]",{'line': []},,OK
-26,"[{'geometry': {'location': {'lat': 32.0670288, 'lng': 34.7865586}}, 'id': '23e7d86cc02bdcd2234491ebf1fba46a8fe4e031', 'name': 'The Dancing Camel', 'rating': 4.5}]",{'line': []},,OK
+23,[],{'line': []},,ZERO_RESULTS
+24,"[{'geometry': {'location': {'lat': 35.454655, 'lng': 139.632205}}, 'id': 'ce269ab66dddb514c30c6feed5e406d15223eb25', 'name': 'World of Beer Museum Yokohama', 'rating': 3.5}]",{'line': []},,OK
+25,"[{'geometry': {'location': {'lat': 45.0494036, 'lng': -87.2804757}}, 'id': '8e8ed63f57ce88ae8f1729e8922db25bba5531a7', 'name': 'Shipwrecked Brew Pub & Restaurant', 'rating': 3.7}]",{'line': []},,OK
+26,[],{'line': []},,ZERO_RESULTS
 27,[],{'line': []},,ZERO_RESULTS
-28,"[{'geometry': {'location': {'lat': 46.09308660000001, 'lng': -118.2654056}}, 'id': '17d50100b6f04404ef271b332c534e998592dcf0', 'name': 'Burwood Brewing Company', 'rating': 4.7}]",{'line': []},,OK
-29,"[{'geometry': {'location': {'lat': 40.800905, 'lng': -76.861308}}, 'id': '67414d44ea06df428afce008d67bf419c14896a5', 'name': ""Selin's Grove Brewing Company"", 'rating': 4.7}]",{'line': []},,OK
-30,[],{'line': []},,ZERO_RESULTS
-31,[],{'line': []},,ZERO_RESULTS
-32,"[{'geometry': {'location': {'lat': 35.2183676, 'lng': -111.5862777}}, 'id': 'ba21c9e4765368806ee74b16769a5134f4cad856', 'name': 'Historic Brewing Company', 'rating': 4.1}]",{'line': []},,OK
-33,"[{'geometry': {'location': {'lat': 49.22455069999999, 'lng': -124.0353147}}, 'id': 'cbeb6c48647fa4bd6d2344f6ae1418da1f669ca5', 'name': 'Longwood Brew Pub', 'rating': 4.4}]",{'line': []},,OK
-34,[],{'line': []},,ZERO_RESULTS
-35,"[{'geometry': {'location': {'lat': 37.44151069999999, 'lng': -122.1685813}}, 'id': '2b2887a4ca6d7e1e5abd1970ba8d1fdc9225fbad', 'name': 'Stanford Blood Draw at Hoover Pavilion', 'rating': 4.8}, {'geometry': {'location': {'lat': 35.4872651, 'lng': -120.667223}}, 'id': '99458dd34ce9abaf12307a3298b49b73c96b5bda', 'name': 'Hoovers 101 Cafe', 'rating': 0}]",{'line': []},,OK
-36,[],{'line': []},,ZERO_RESULTS
-37,"[{'geometry': {'location': {'lat': 40.8110117, 'lng': -77.912219}}, 'id': '6f6839199f3dc46d99cbd94873ce62667243fecb', 'name': ""Otto's Pub and Brewery"", 'rating': 4.3}]",{'line': []},,OK
-38,"[{'geometry': {'location': {'lat': 38.2586621, 'lng': -122.0600408}}, 'id': '82e866592b62f537b3258c2d4c032749c46e28c3', 'name': 'Blue Frog Grog & Grill', 'rating': 4.1}]",{'line': []},,OK
-39,[],{'line': []},,ZERO_RESULTS
-40,"[{'geometry': {'location': {'lat': 42.7727232, 'lng': -71.0852745}}, 'id': '6f6144591b0fe912b48a63e049c8b6fd1b5906b7', 'name': 'The Tap Brewing Company', 'rating': 4.3}]",{'line': []},,OK
+28,"[{'geometry': {'location': {'lat': 39.7534005, 'lng': -104.9984882}}, 'id': '87170c5a51a62f45f5361e357265b6089d8c4370', 'name': 'Wynkoop Brewing Company', 'rating': 4.1}]",{'line': []},,OK
+29,"[{'geometry': {'location': {'lat': 53.5471128, 'lng': -113.5216829}}, 'id': 'd29efea7bdc4e11fffbbaa1dde5222e79764c491', 'name': 'Brewsters', 'rating': 4.1}]",{'line': []},,OK
+30,"[{'geometry': {'location': {'lat': 44.6607599, 'lng': -63.60588720000001}}, 'id': 'e8326d2de9e6f59d5320e445ef0ac3ca8ab1e5d5', 'name': 'Granite Brewery', 'rating': 4.8}]",{'line': []},,OK
+31,"[{'geometry': {'location': {'lat': 48.3917909, 'lng': -122.4957814}}, 'id': 'a50ea5ff3e8faa7d445de6286f35d043a0255333', 'name': 'La Conner Brewing Co', 'rating': 4.4}]",{'line': []},,OK
+32,"[{'geometry': {'location': {'lat': 43.4668796, 'lng': -80.52322509999999}}, 'id': '0979194cc092958d29527d733680eb3293ec36f7', 'name': 'The Lion Brewery Restaurant', 'rating': 4.1}]",{'line': []},,OK
+33,"[{'geometry': {'location': {'lat': 44.3052747, 'lng': -78.31983799999999}}, 'id': '2ee8937d72b0f5d85f8b62365e4baf96b3b0469e', 'name': 'Olde Stone Brewing Company', 'rating': 4.5}]",{'line': []},,OK
+34,"[{'geometry': {'location': {'lat': 42.2689619, 'lng': -89.0906164}}, 'id': '747b7b5a06b502c693ff01c78e8b4eddaeea7ed4', 'name': 'Carlyle Brewing Co.', 'rating': 4.6}]",{'line': []},,OK
+35,"[{'geometry': {'location': {'lat': 46.8224258, 'lng': 6.5002317}}, 'id': '716b7c38b732d6b8022cbd2b8b803cb418335cab', 'name': 'Brasserie des Trois Dames', 'rating': 4.6}]",{'line': []},,OK
+36,"[{'geometry': {'location': {'lat': 33.783107, 'lng': -117.893329}}, 'id': '0a27bca1fa81736ed119c3e50cbcefeee7240699', 'name': 'Alcatraz Brewing Company', 'rating': 3.8}]",{'line': []},,OK
+37,[],{'line': []},,ZERO_RESULTS
+38,"[{'geometry': {'location': {'lat': 55.202774, 'lng': 9.993936999999999}}, 'id': '5c72b5d21cebebdc7d96ab969ca8c19f295b779b', 'name': 'Stensbogaard Bryghus', 'rating': 0}]",{'line': []},,OK
+39,"[{'geometry': {'location': {'lat': 38.2721299, 'lng': -122.6626671}}, 'id': '61385916d672944d07e9845b64b09db708f9e788', 'name': 'Lagunitas Brewing Company', 'rating': 4.7}]",{'line': []},,OK
+40,"[{'geometry': {'location': {'lat': -41.5733788, 'lng': 148.3098386}}, 'id': '290846d7c34911885459aa9444949a8040806690', 'name': 'Iron House Brewery', 'rating': 4.1}]",{'line': []},,OK
 41,[],{'line': []},,ZERO_RESULTS
-42,[],{'line': []},,ZERO_RESULTS
-43,[],{'line': []},,ZERO_RESULTS
-44,"[{'geometry': {'location': {'lat': 49.270502, 'lng': -123.135661}}, 'id': '1e4a1d2e65f9c5a3238c5db263e15cf00bbe5859', 'name': 'Granville Island Brewing', 'rating': 4.3}]",{'line': []},,OK
-45,"[{'geometry': {'location': {'lat': 40.11184, 'lng': -76.50296}}, 'id': 'c3d892e3c5bb3064bc7e53bf52d8b75622ec784c', 'name': ""Bube's Brewery Dining & Entertainment"", 'rating': 3.9}]",{'line': []},,OK
-46,"[{'geometry': {'location': {'lat': 38.7840019, 'lng': -121.3060849}}, 'id': '9a3717ee5e2dfc5ce5eee45f590ab15f8ba4e851', 'name': ""Beermann's Beerwerks Brewery"", 'rating': 0}, {'geometry': {'location': {'lat': 38.891707, 'lng': -121.292073}}, 'id': 'eaf82489f535f774567c4317d0a6d489cf7b8cd7', 'name': ""Beermann's Brewery"", 'rating': 3.9}]",{'line': []},,OK
-47,"[{'geometry': {'location': {'lat': 37.6420181, 'lng': -120.9999995}}, 'id': '86f53e0908efa2057ac323329bcd0479c1335fa6', 'name': ""St. Stan's Brewing - Restaurant & Brick Oven Pizza Pub"", 'rating': 4.5}]",{'line': []},,OK
-48,[],{'line': []},,ZERO_RESULTS
-49,[],{'line': []},,ZERO_RESULTS
-50,"[{'geometry': {'location': {'lat': 36.9591246, 'lng': -122.0481543}}, 'id': '5375bfa616c5416fea8af725b0b670dc8972d751', 'name': 'Santa Cruz Mountain Brewing', 'rating': 4.6}]",{'line': []},,OK
-51,"[{'geometry': {'location': {'lat': 38.950139, 'lng': -92.332031}}, 'id': '610a8d76db0b5330b2fb17bb72e5135604c894d1', 'name': 'Flat Branch Pub & Brewing', 'rating': 4.5}]",{'line': []},,OK
-52,[],{'line': []},,ZERO_RESULTS
-53,"[{'geometry': {'location': {'lat': 41.232792, 'lng': -96.08331199999999}}, 'id': 'a42cbe2a64c863d26a5586acb977302cd30a4c2c', 'name': 'The Jaipur', 'rating': 4.4}]",{'line': []},,OK
-54,[],{'line': []},,ZERO_RESULTS
+42,"[{'geometry': {'location': {'lat': 44.5032619, 'lng': -88.0642467}}, 'id': 'd968d44753828413a8c78d43e45c9c5eb91e9209', 'name': 'Hinterland Brewery', 'rating': 3.8}]",{'line': []},,OK
+43,"[{'geometry': {'location': {'lat': 40.8110117, 'lng': -77.912219}}, 'id': '6f6839199f3dc46d99cbd94873ce62667243fecb', 'name': ""Otto's Pub and Brewery"", 'rating': 4.3}]",{'line': []},,OK
+44,"[{'geometry': {'location': {'lat': 35.2183676, 'lng': -111.5862777}}, 'id': 'ba21c9e4765368806ee74b16769a5134f4cad856', 'name': 'Historic Brewing Company', 'rating': 4.1}]",{'line': []},,OK
+45,[],{'line': []},,ZERO_RESULTS
+46,"[{'geometry': {'location': {'lat': 32.8466697, 'lng': -79.8767999}}, 'id': 'd9f52dd1ed82c02e4e193be7344c349264ed1a2f', 'name': 'Westbrook Brewing Company', 'rating': 4.5}]",{'line': []},,OK
+47,"[{'geometry': {'location': {'lat': 49.1321832, 'lng': -122.3416728}}, 'id': '9d25c670c98d7489dd9d660604ce756574211a22', 'name': 'Mission Springs Brewing Company', 'rating': 4}]",{'line': []},,OK
+48,"[{'geometry': {'location': {'lat': 55.76284709999999, 'lng': 12.3837931}}, 'id': '95a309443d430a61bf59ff35c0bc26470a596fc8', 'name': 'Bryggeri Skovlyst ApS', 'rating': 4.1}]",{'line': []},,OK
+49,"[{'geometry': {'location': {'lat': 37.0998883, 'lng': -76.39447969999999}}, 'id': '9872ab6cd861a2702ff60c13158de3326d4d9902', 'name': 'St. George Brewing Company', 'rating': 4.6}]",{'line': []},,OK
+50,[],{'line': []},,ZERO_RESULTS
+51,"[{'geometry': {'location': {'lat': 40.659725, 'lng': -74.28300399999999}}, 'id': '90ce939b553ba980b179f58384274f260eeec685', 'name': 'Climax Brewing Co', 'rating': 4.9}]",{'line': []},,OK
+52,"[{'geometry': {'location': {'lat': 37.6420181, 'lng': -120.9999995}}, 'id': '86f53e0908efa2057ac323329bcd0479c1335fa6', 'name': ""St. Stan's Brewing - Restaurant & Brick Oven Pizza Pub"", 'rating': 4.5}]",{'line': []},,OK
+53,[],{'line': []},,ZERO_RESULTS
+54,"[{'geometry': {'location': {'lat': 40.8152364, 'lng': -96.71080669999999}}, 'id': '901d573f332aea885985248a960389d456e71403', 'name': 'Empyrean Brewing Co', 'rating': 3.9}]",{'line': []},,OK
 55,[],{'line': []},,ZERO_RESULTS
-56,"[{'geometry': {'location': {'lat': 40.8152364, 'lng': -96.71080669999999}}, 'id': '901d573f332aea885985248a960389d456e71403', 'name': 'Empyrean Brewing Co', 'rating': 3.9}]",{'line': []},,OK
-57,"[{'geometry': {'location': {'lat': 61.217774, 'lng': -149.8966669}}, 'id': '6f2871dd4a3334b0c183a657f91059214ef13037', 'name': 'Glacier Brewhouse', 'rating': 4.3}]",{'line': []},,OK
-58,[],{'line': []},,ZERO_RESULTS
-59,"[{'geometry': {'location': {'lat': -32.056163, 'lng': 115.7486826}}, 'id': '8aa15f4b78bc33027bbbee8b7c5035c5602ab48d', 'name': 'Sail and Anchor', 'rating': 4.1}]",{'line': []},,OK
+56,"[{'geometry': {'location': {'lat': 39.9609712, 'lng': -75.1469089}}, 'id': '6ae2126233b1c9a537be34e5bc1a7d245dee875d', 'name': 'Yards Brewing Company', 'rating': 4.5}]",{'line': []},,OK
+57,"[{'geometry': {'location': {'lat': 46.9474933, 'lng': 7.459673500000001}}, 'id': '32d22c96691364a489e5c21edd93f99907baaa00', 'name': 'Altes Tramdepot Brauerei & Restaurant', 'rating': 4.1}]",{'line': []},,OK
+58,"[{'geometry': {'location': {'lat': 51.5441851, 'lng': -0.008883799999999999}}, 'id': '32770e9097c7a49aee6cc547f67953b7f4f60a05', 'name': 'Tap East', 'rating': 4.3}]",{'line': []},,OK
+59,"[{'geometry': {'location': {'lat': 39.2874294, 'lng': -81.53305540000001}}, 'id': '7a3c34d3528894b62cba2d83a75e3ded637c8675', 'name': 'North End Tavern & Brewery', 'rating': 4.5}]",{'line': []},,OK
 60,[],{'line': []},,ZERO_RESULTS
-61,"[{'geometry': {'location': {'lat': 51.3167244, 'lng': 0.8916246}}, 'id': '554c9a009a59e76ed9b9b048d2c39c84ce9c84a0', 'name': 'Shepherd Neame Brewery', 'rating': 4.4}]",{'line': []},,OK
-62,"[{'geometry': {'location': {'lat': 41.5074806, 'lng': -90.5667955}}, 'id': '894fb9bb6401308e9aafd041a56705ca79d26f54', 'name': 'Bent River Brewing Company', 'rating': 4.7}, {'geometry': {'location': {'lat': 41.5060408, 'lng': -90.5170741}}, 'id': '1562a220ad300f3005384b301acce045a4909cde', 'name': 'Bent River Brewing Co', 'rating': 4.3}]",{'line': []},,OK
-63,"[{'geometry': {'location': {'lat': 35.454655, 'lng': 139.632205}}, 'id': 'ce269ab66dddb514c30c6feed5e406d15223eb25', 'name': 'World of Beer Museum Yokohama', 'rating': 3.5}]",{'line': []},,OK
-64,"[{'geometry': {'location': {'lat': 37.9859758, 'lng': -122.5839888}}, 'id': 'd78577dae3d6e50749375fcd4ce0b46d33d66211', 'name': 'Iron Springs Pub & Brewery', 'rating': 4.3}, {'geometry': {'location': {'lat': 37.9473862, 'lng': -122.509629}}, 'id': 'fd3a9adafdd2e07acc82c88b77e6357d9420c4f0', 'name': 'Marin Brewing Company', 'rating': 3.7}]",{'line': []},,OK
-65,"[{'geometry': {'location': {'lat': 50.2616995, 'lng': -119.2689322}}, 'id': 'd92a2a6e58d0653c4ae010fea8fed7227e85cabf', 'name': 'Okanagan Spring Brewery', 'rating': 3.8}]",{'line': []},,OK
+61,[],{'line': []},,ZERO_RESULTS
+62,[],{'line': []},,ZERO_RESULTS
+63,"[{'geometry': {'location': {'lat': 37.9859758, 'lng': -122.5839888}}, 'id': 'd78577dae3d6e50749375fcd4ce0b46d33d66211', 'name': 'Iron Springs Pub & Brewery', 'rating': 4.3}, {'geometry': {'location': {'lat': 37.9473862, 'lng': -122.509629}}, 'id': 'fd3a9adafdd2e07acc82c88b77e6357d9420c4f0', 'name': 'Marin Brewing Company', 'rating': 3.7}]",{'line': []},,OK
+64,"[{'geometry': {'location': {'lat': 51.3167244, 'lng': 0.8916246}}, 'id': '554c9a009a59e76ed9b9b048d2c39c84ce9c84a0', 'name': 'Shepherd Neame Brewery', 'rating': 4.4}]",{'line': []},,OK
+65,"[{'geometry': {'location': {'lat': 41.5074806, 'lng': -90.5667955}}, 'id': '894fb9bb6401308e9aafd041a56705ca79d26f54', 'name': 'Bent River Brewing Company', 'rating': 4.7}, {'geometry': {'location': {'lat': 41.5060408, 'lng': -90.5170741}}, 'id': '1562a220ad300f3005384b301acce045a4909cde', 'name': 'Bent River Brewing Co', 'rating': 4.3}]",{'line': []},,OK
 66,[],{'line': []},,ZERO_RESULTS
-67,[],{'line': []},,ZERO_RESULTS
-68,"[{'geometry': {'location': {'lat': 47.12207900000001, 'lng': -88.568758}}, 'id': 'd6313fdb9bbb90ecbe3c2c8cffe093c3c1623597', 'name': 'Keweenaw Brewing Company Taproom', 'rating': 4.8}]",{'line': []},,OK
-69,"[{'geometry': {'location': {'lat': 51.5441851, 'lng': -0.008883799999999999}}, 'id': '32770e9097c7a49aee6cc547f67953b7f4f60a05', 'name': 'Tap East', 'rating': 4.3}]",{'line': []},,OK
-70,"[{'geometry': {'location': {'lat': 45.0494036, 'lng': -87.2804757}}, 'id': '8e8ed63f57ce88ae8f1729e8922db25bba5531a7', 'name': 'Shipwrecked Brew Pub & Restaurant', 'rating': 3.7}]",{'line': []},,OK
-71,"[{'geometry': {'location': {'lat': 38.7381794, 'lng': -90.30232559999999}}, 'id': 'f1ccf6ef3b41a7ec2873f0bb06caf63aff4337c6', 'name': 'Ferguson Brewing Company', 'rating': 4.6}]",{'line': []},,OK
-72,"[{'geometry': {'location': {'lat': -41.5733788, 'lng': 148.3098386}}, 'id': '290846d7c34911885459aa9444949a8040806690', 'name': 'Iron House Brewery', 'rating': 4.1}]",{'line': []},,OK
-73,"[{'geometry': {'location': {'lat': 46.0064013, 'lng': -73.4443502}}, 'id': '8208e36ce12f576f8227498fce9676581e52ebb1', 'name': ""L'Alchimiste"", 'rating': 4.4}]",{'line': []},,OK
-74,"[{'geometry': {'location': {'lat': 44.6607599, 'lng': -63.60588720000001}}, 'id': 'e8326d2de9e6f59d5320e445ef0ac3ca8ab1e5d5', 'name': 'Granite Brewery', 'rating': 4.8}]",{'line': []},,OK
-75,"[{'geometry': {'location': {'lat': 34.756946, 'lng': -77.947752}}, 'id': 'f7646534e9b7053aff9480ec1aa7d8dca2ce5d4b', 'name': 'Mad Boar Restaurant', 'rating': 4}, {'geometry': {'location': {'lat': 33.798281, 'lng': -78.740517}}, 'id': 'ceaa19ebd398577396aeb2d2afc99830bbb80fcf', 'name': 'Mad Boar Restaurant & Brewery', 'rating': 0}]",{'line': []},,OK
-76,"[{'geometry': {'location': {'lat': 40.8567085, 'lng': -124.088885}}, 'id': '31fc69c671829c036626790466e3d2207ed6a513', 'name': 'Redwood Curtain Brewing Company', 'rating': 4.8}]",{'line': []},,OK
-77,"[{'geometry': {'location': {'lat': 36.7288682, 'lng': -108.205411}}, 'id': '1a3ece05352e4006fb0cebb1096f2d6287643c85', 'name': 'Three Rivers Eatery & Brewhouse', 'rating': 4.3}]",{'line': []},,OK
-78,"[{'geometry': {'location': {'lat': 37.5313948, 'lng': -77.42599589999999}}, 'id': 'd3c8099d9380b45c3debe59cd50321e45f4fc766', 'name': 'Richbrau Brewing', 'rating': 0}]",{'line': []},,OK
-79,"[{'geometry': {'location': {'lat': 37.3876487, 'lng': -121.9924739}}, 'id': '52c5c9e79a756aed4c1ac33b599db19f1ca6eca5', 'name': 'Faultline Brewing Company', 'rating': 4}]",{'line': []},,OK
-80,"[{'geometry': {'location': {'lat': 43.309619, 'lng': -73.644801}}, 'id': '5a4fda540cfd073c6ec7003f49bdf0482d46f680', 'name': 'Davidson Brothers Brewpub', 'rating': 3.8}]",{'line': []},,OK
-81,"[{'geometry': {'location': {'lat': 38.0940901, 'lng': -122.5567687}}, 'id': '0363e731e2b6e138d9948501ea24e9fe51575cdf', 'name': ""Moylan's Brewing Company"", 'rating': 4.2}]",{'line': []},,OK
-82,"[{'geometry': {'location': {'lat': 35.99191709999999, 'lng': -83.94286079999999}}, 'id': 'c81fb6c76ae17c5582eda3da1d3612d0faf4cebd', 'name': 'Fanatic Brewing Company', 'rating': 4.9}]",{'line': []},,OK
-83,"[{'geometry': {'location': {'lat': 1.2892296, 'lng': 103.8442712}}, 'id': 'a4988ab9392ec6bc6742c3114ef1b7f4b7c2f726', 'name': 'Brewerkz Riverside Point', 'rating': 4.3}]",{'line': []},,OK
-84,"[{'geometry': {'location': {'lat': 49.1321832, 'lng': -122.3416728}}, 'id': '9d25c670c98d7489dd9d660604ce756574211a22', 'name': 'Mission Springs Brewing Company', 'rating': 4}]",{'line': []},,OK
-85,"[{'geometry': {'location': {'lat': 39.9609712, 'lng': -75.1469089}}, 'id': '6ae2126233b1c9a537be34e5bc1a7d245dee875d', 'name': 'Yards Brewing Company', 'rating': 4.5}]",{'line': []},,OK
-86,"[{'geometry': {'location': {'lat': 33.4486643, 'lng': -112.016724}}, 'id': '9d09ffc370a1c2cb44ced43eb72a802c8d1a968e', 'name': 'Sonoran Brewing Company', 'rating': 4.6}]",{'line': []},,OK
-87,"[{'geometry': {'location': {'lat': 42.9922378, 'lng': -81.2129818}}, 'id': '5a3b0a0967508bc2b42b56f7db9083ed208d1520', 'name': 'Powerhouse Brewing Company', 'rating': 0}]",{'line': []},,OK
-88,"[{'geometry': {'location': {'lat': 41.518547, 'lng': -71.30562499999999}}, 'id': 'ab460118792f7f38e4e2325e498e7c2fbbcbf870', 'name': 'Coddington Brewing Company', 'rating': 4.2}]",{'line': []},,OK
-89,"[{'geometry': {'location': {'lat': 35.98795, 'lng': -80.004282}}, 'id': '6456936f19c34fb92e3ab6040d3df78597a9e314', 'name': 'Liberty Brewery and Grill', 'rating': 3.9}, {'geometry': {'location': {'lat': 33.7161717, 'lng': -78.8825737}}, 'id': '862bc285b31bfe42910858487a63808f8eecc9fb', 'name': 'Liberty Brewery & Grill', 'rating': 4}]",{'line': []},,OK
-90,"[{'geometry': {'location': {'lat': 32.8466697, 'lng': -79.8767999}}, 'id': 'd9f52dd1ed82c02e4e193be7344c349264ed1a2f', 'name': 'Westbrook Brewing Company', 'rating': 4.5}]",{'line': []},,OK
+67,"[{'geometry': {'location': {'lat': 50.2616995, 'lng': -119.2689322}}, 'id': 'd92a2a6e58d0653c4ae010fea8fed7227e85cabf', 'name': 'Okanagan Spring Brewery', 'rating': 3.8}]",{'line': []},,OK
+68,"[{'geometry': {'location': {'lat': 33.787346, 'lng': -117.869176}}, 'id': '92e5343f5e058366f22065d7ad41dee9202e9dc2', 'name': 'The Pump Room', 'rating': 4.4}]",{'line': []},,OK
+69,"[{'geometry': {'location': {'lat': -32.056163, 'lng': 115.7486826}}, 'id': '8aa15f4b78bc33027bbbee8b7c5035c5602ab48d', 'name': 'Sail and Anchor', 'rating': 4.1}]",{'line': []},,OK
+70,[],{'line': []},,ZERO_RESULTS
+71,"[{'geometry': {'location': {'lat': 49.270502, 'lng': -123.135661}}, 'id': '1e4a1d2e65f9c5a3238c5db263e15cf00bbe5859', 'name': 'Granville Island Brewing', 'rating': 4.3}]",{'line': []},,OK
+72,"[{'geometry': {'location': {'lat': 46.09308660000001, 'lng': -118.2654056}}, 'id': '17d50100b6f04404ef271b332c534e998592dcf0', 'name': 'Burwood Brewing Company', 'rating': 4.7}]",{'line': []},,OK
+73,[],{'line': []},,ZERO_RESULTS
+74,[],{'line': []},,ZERO_RESULTS
+75,"[{'geometry': {'location': {'lat': 41.518547, 'lng': -71.30562499999999}}, 'id': 'ab460118792f7f38e4e2325e498e7c2fbbcbf870', 'name': 'Coddington Brewing Company', 'rating': 4.2}]",{'line': []},,OK
+76,"[{'geometry': {'location': {'lat': 34.4167478, 'lng': -119.6957697}}, 'id': '9f7aac9b7d68988fe6469a0d575737239eb6ad8f', 'name': 'Santa Barbara Brewing Company', 'rating': 4.1}]",{'line': []},,OK
+77,"[{'geometry': {'location': {'lat': 44.476539, 'lng': -73.21427899999999}}, 'id': '390803a31ae0dbf794be26e7288d55f24b9f45a2', 'name': 'Zero Gravity Brewpub at American Flatbread', 'rating': 4.7}]",{'line': []},,OK
+78,[],{'line': []},,ZERO_RESULTS
+79,[],{'line': []},,ZERO_RESULTS
+80,"[{'geometry': {'location': {'lat': 41.232792, 'lng': -96.08331199999999}}, 'id': 'a42cbe2a64c863d26a5586acb977302cd30a4c2c', 'name': 'The Jaipur', 'rating': 4.4}]",{'line': []},,OK
+81,"[{'geometry': {'location': {'lat': 35.607923, 'lng': -82.358611}}, 'id': '92cd1a6370d5a26da44f8be2b75d99cd2250b01c', 'name': 'Pisgah Brewing Company', 'rating': 4.7}]",{'line': []},,OK
+82,"[{'geometry': {'location': {'lat': 40.800905, 'lng': -76.861308}}, 'id': '67414d44ea06df428afce008d67bf419c14896a5', 'name': ""Selin's Grove Brewing Company"", 'rating': 4.7}]",{'line': []},,OK
+83,[],{'line': []},,ZERO_RESULTS
+84,"[{'geometry': {'location': {'lat': 55.0037911, 'lng': -1.4871712}}, 'id': '66d9a441db04d8faac3b4ae7ef6683a5dc3cb4cc', 'name': 'Mordue Brewery', 'rating': 4}]",{'line': []},,OK
+85,"[{'geometry': {'location': {'lat': 41.0584046, 'lng': -74.022847}}, 'id': '72217723ca96d14c3a2e113a112070e763c18cd1', 'name': 'Defiant Brewing Co', 'rating': 4.4}]",{'line': []},,OK
+86,"[{'geometry': {'location': {'lat': 43.521052, 'lng': -114.3158921}}, 'id': '3a53971d087a5c1573775b6c729af5259567e318', 'name': 'Sun Valley Brewing Co', 'rating': 4}]",{'line': []},,OK
+87,[],{'line': []},,ZERO_RESULTS
+88,"[{'geometry': {'location': {'lat': 38.2562204, 'lng': -85.75508500000001}}, 'id': 'abab2de52be373d0fc492e046bce1efb9e66eeed', 'name': 'Bluegrass Brewing Co', 'rating': 4.2}]",{'line': []},,OK
+89,"[{'geometry': {'location': {'lat': 46.8178912, 'lng': -71.2180951}}, 'id': '35fb6c082bef4ee561e5fca250654ae2e8c41d1d', 'name': 'La Barberie', 'rating': 4.6}]",{'line': []},,OK
+90,[],{'line': []},,ZERO_RESULTS
 91,[],{'line': []},,ZERO_RESULTS
-92,"[{'geometry': {'location': {'lat': 33.787346, 'lng': -117.869176}}, 'id': '92e5343f5e058366f22065d7ad41dee9202e9dc2', 'name': 'The Pump Room', 'rating': 4.4}]",{'line': []},,OK
+92,"[{'geometry': {'location': {'lat': 33.7593014, 'lng': -118.1482119}}, 'id': '61a509e90dc5b282988717b47015e5727f4beca8', 'name': 'Belmont Brewing Co', 'rating': 4.4}]",{'line': []},,OK
 93,[],{'line': []},,ZERO_RESULTS
-94,"[{'geometry': {'location': {'lat': 40.659725, 'lng': -74.28300399999999}}, 'id': '90ce939b553ba980b179f58384274f260eeec685', 'name': 'Climax Brewing Co', 'rating': 4.9}]",{'line': []},,OK
-95,"[{'geometry': {'location': {'lat': 55.76284709999999, 'lng': 12.3837931}}, 'id': '95a309443d430a61bf59ff35c0bc26470a596fc8', 'name': 'Bryggeri Skovlyst ApS', 'rating': 4.1}]",{'line': []},,OK
-96,"[{'geometry': {'location': {'lat': 59.9134894, 'lng': 10.7349384}}, 'id': '2b6934b38b9de84d6aaa75ba95c7a661acce1778', 'name': 'Amundsen Bryggeri & Spiseri', 'rating': 4.2}]",{'line': []},,OK
-97,[],{'line': []},,ZERO_RESULTS
-98,"[{'geometry': {'location': {'lat': 42.5719414, 'lng': -76.85945699999999}}, 'id': 'c19d95bc01150a0cc58df0390836205ee5a47fea', 'name': 'Wagner Valley Brewing Company', 'rating': 4.5}]",{'line': []},,OK
-99,"[{'geometry': {'location': {'lat': 40.0225428, 'lng': -75.2190327}}, 'id': 'bdff2165a865f018ac207f2263f47aa716646fe6', 'name': 'Manayunk Brewing Company', 'rating': 3.9}]",{'line': []},,OK
-100,[],{'line': []},,ZERO_RESULTS
-101,"[{'geometry': {'location': {'lat': 43.0334723, 'lng': -87.9094665}}, 'id': 'feccb3ec36878cdd977b8ce9904526d6e9c394b5', 'name': 'Milwaukee Ale House', 'rating': 4.3}]",{'line': []},,OK
-102,"[{'geometry': {'location': {'lat': 46.2109842, 'lng': -119.1192539}}, 'id': 'fcf4eef94dc44bdd1b85e5b252c20c75bbe2f716', 'name': 'Ice Harbor Brewing Company', 'rating': 4.4}]",{'line': []},,OK
-103,[],{'line': []},,ZERO_RESULTS
-104,[],{'line': []},,ZERO_RESULTS
-105,"[{'geometry': {'location': {'lat': 38.2721299, 'lng': -122.6626671}}, 'id': '61385916d672944d07e9845b64b09db708f9e788', 'name': 'Lagunitas Brewing Company', 'rating': 4.7}]",{'line': []},,OK
-106,"[{'geometry': {'location': {'lat': 47.6255374, 'lng': -122.3517889}}, 'id': 'c898bd8a3180dd091c2edcb63ac1cca5a488bda1', 'name': 'McMenamins Queen Anne', 'rating': 4.2}]",{'line': []},,OK
-107,"[{'geometry': {'location': {'lat': 34.051477, 'lng': -118.2567737}}, 'id': 'ece0415fcf946425c75aa158afd5b8d0c3b62c17', 'name': 'Weiland Brewery Underground', 'rating': 4.3}]",{'line': []},,OK
-108,"[{'geometry': {'location': {'lat': 38.2562204, 'lng': -85.75508500000001}}, 'id': 'abab2de52be373d0fc492e046bce1efb9e66eeed', 'name': 'Bluegrass Brewing Co', 'rating': 4.2}]",{'line': []},,OK
-109,[],{'line': []},,ZERO_RESULTS
-110,"[{'geometry': {'location': {'lat': 42.8234105, 'lng': -76.92295969999999}}, 'id': '4920aaa2f09f74fb0deda413e4299f1b885b2124', 'name': 'War Horse Brewing Company', 'rating': 4.5}]",{'line': []},,OK
-111,"[{'geometry': {'location': {'lat': 39.6350531, 'lng': -75.66135129999999}}, 'id': '7d59b2cd3e1f0b5659c1352ac17e9beed137a764', 'name': 'Stewarts Brewing Company', 'rating': 4.5}]",{'line': []},,OK
+94,"[{'geometry': {'location': {'lat': 49.22455069999999, 'lng': -124.0353147}}, 'id': 'cbeb6c48647fa4bd6d2344f6ae1418da1f669ca5', 'name': 'Longwood Brew Pub', 'rating': 4.4}]",{'line': []},,OK
+95,"[{'geometry': {'location': {'lat': 44.2863523, 'lng': -69.7903644}}, 'id': 'dffb04d6d753e8f778170b5984ca03ab8a9a3b5b', 'name': 'The Liberal Cup', 'rating': 4.6}]",{'line': []},,OK
+96,"[{'geometry': {'location': {'lat': 46.0064013, 'lng': -73.4443502}}, 'id': '8208e36ce12f576f8227498fce9676581e52ebb1', 'name': ""L'Alchimiste"", 'rating': 4.4}]",{'line': []},,OK
+97,"[{'geometry': {'location': {'lat': 53.5976747, 'lng': -2.8298845}}, 'id': '3ab6b41bd28077d53219f767889a632bbac8ac44', 'name': 'The Ship Inn', 'rating': 4.5}]",{'line': []},,OK
+98,"[{'geometry': {'location': {'lat': 40.11184, 'lng': -76.50296}}, 'id': 'c3d892e3c5bb3064bc7e53bf52d8b75622ec784c', 'name': ""Bube's Brewery Dining & Entertainment"", 'rating': 3.9}]",{'line': []},,OK
+99,"[{'geometry': {'location': {'lat': 39.6350531, 'lng': -75.66135129999999}}, 'id': '7d59b2cd3e1f0b5659c1352ac17e9beed137a764', 'name': 'Stewarts Brewing Company', 'rating': 4.5}]",{'line': []},,OK
+100,"[{'geometry': {'location': {'lat': 59.9134894, 'lng': 10.7349384}}, 'id': '2b6934b38b9de84d6aaa75ba95c7a661acce1778', 'name': 'Amundsen Bryggeri & Spiseri', 'rating': 4.2}]",{'line': []},,OK
+101,"[{'geometry': {'location': {'lat': -25.2856488, 'lng': -57.5892035}}, 'id': '878cf7c42107238010e382702a1030eea0a0a33a', 'name': 'Sacramento Brewing Co.', 'rating': 4.4}]",{'line': []},,OK
+102,[],{'line': []},,ZERO_RESULTS
+103,"[{'geometry': {'location': {'lat': 38.7840019, 'lng': -121.3060849}}, 'id': '9a3717ee5e2dfc5ce5eee45f590ab15f8ba4e851', 'name': ""Beermann's Beerwerks Brewery"", 'rating': 0}, {'geometry': {'location': {'lat': 38.891707, 'lng': -121.292073}}, 'id': 'eaf82489f535f774567c4317d0a6d489cf7b8cd7', 'name': ""Beermann's Brewery"", 'rating': 3.9}]",{'line': []},,OK
+104,"[{'geometry': {'location': {'lat': 33.6980426, 'lng': -78.8898272}}, 'id': '39241cd1911f557e8fd4c2307d5441490e9bc090', 'name': 'New South Brewing', 'rating': 4.7}]",{'line': []},,OK
+105,[],{'line': []},,ZERO_RESULTS
+106,"[{'geometry': {'location': {'lat': 42.9922378, 'lng': -81.2129818}}, 'id': '5a3b0a0967508bc2b42b56f7db9083ed208d1520', 'name': 'Powerhouse Brewing Company', 'rating': 0}]",{'line': []},,OK
+107,"[{'geometry': {'location': {'lat': 42.5719414, 'lng': -76.85945699999999}}, 'id': 'c19d95bc01150a0cc58df0390836205ee5a47fea', 'name': 'Wagner Valley Brewing Company', 'rating': 4.5}]",{'line': []},,OK
+108,"[{'geometry': {'location': {'lat': 43.2085271, 'lng': -123.3446373}}, 'id': 'd162e7d65ed4d5322d4ea54f425d0588d06731ba', 'name': 'Draper Draft House', 'rating': 4.9}]",{'line': []},,OK
+109,"[{'geometry': {'location': {'lat': 1.2892296, 'lng': 103.8442712}}, 'id': 'a4988ab9392ec6bc6742c3114ef1b7f4b7c2f726', 'name': 'Brewerkz Riverside Point', 'rating': 4.3}]",{'line': []},,OK
+110,[],{'line': []},,ZERO_RESULTS
+111,[],{'line': []},,ZERO_RESULTS
 112,[],{'line': []},,ZERO_RESULTS
-113,"[{'geometry': {'location': {'lat': 33.7385347, 'lng': -118.2842157}}, 'id': '2512da9cfc5487e9ece22def76a903665db71e22', 'name': 'San Pedro Brewing Company', 'rating': 4.4}]",{'line': []},,OK
-114,"[{'geometry': {'location': {'lat': 44.2863523, 'lng': -69.7903644}}, 'id': 'dffb04d6d753e8f778170b5984ca03ab8a9a3b5b', 'name': 'The Liberal Cup', 'rating': 4.6}]",{'line': []},,OK
-115,"[{'geometry': {'location': {'lat': 33.8844674, 'lng': -118.4110587}}, 'id': '9ecedc58db0bff19040b8d0b17ad27e5792e7f1a', 'name': 'Brewco', 'rating': 4.3}]",{'line': []},,OK
-116,[],{'line': []},,ZERO_RESULTS
-117,[],{'line': []},,ZERO_RESULTS
-118,[],{'line': []},,ZERO_RESULTS
-119,"[{'geometry': {'location': {'lat': 35.5961621, 'lng': -82.55328659999999}}, 'id': 'a2db4dcdda9095dcde5c0e5a1beb834892a5fe2f', 'name': 'Lexington Avenue Brewery', 'rating': 4}]",{'line': []},,OK
-120,"[{'geometry': {'location': {'lat': 38.01651, 'lng': -81.11368}}, 'id': 'a6ff271515febec05c188e7e8aab7770efec65a2', 'name': 'Bridge Brew Works', 'rating': 4.6}]",{'line': []},,OK
-121,"[{'geometry': {'location': {'lat': 44.5032619, 'lng': -88.0642467}}, 'id': 'd968d44753828413a8c78d43e45c9c5eb91e9209', 'name': 'Hinterland Brewery', 'rating': 3.8}]",{'line': []},,OK
-122,"[{'geometry': {'location': {'lat': 46.247208, 'lng': -114.154306}}, 'id': '15cd6d6315495b2d8469245d15d7f2264eeed358', 'name': 'Bitter Root Brewing', 'rating': 4.6}]",{'line': []},,OK
-123,"[{'geometry': {'location': {'lat': 33.6980426, 'lng': -78.8898272}}, 'id': '39241cd1911f557e8fd4c2307d5441490e9bc090', 'name': 'New South Brewing', 'rating': 4.7}]",{'line': []},,OK
-124,"[{'geometry': {'location': {'lat': 46.8224258, 'lng': 6.5002317}}, 'id': '716b7c38b732d6b8022cbd2b8b803cb418335cab', 'name': 'Brasserie des Trois Dames', 'rating': 4.6}]",{'line': []},,OK
-125,"[{'geometry': {'location': {'lat': 33.092128, 'lng': -96.6798589}}, 'id': '7d0f741fbd3212f70aac5de414565dd230a4bfe9', 'name': 'TwoRows Classic Grill', 'rating': 4.4}]",{'line': []},,OK
-126,[],{'line': []},,ZERO_RESULTS
-127,"[{'geometry': {'location': {'lat': 44.0814027, 'lng': -103.2275762}}, 'id': '06c3db60fc14d7746b2a3e47bc4ad83b397c35ff', 'name': 'Firehouse Brewing Company', 'rating': 3.9}]",{'line': []},,OK
-128,[],,Invalid request. One of the input parameters contains a non-UTF-8 string.,INVALID_REQUEST
-129,"[{'geometry': {'location': {'lat': 35.607923, 'lng': -82.358611}}, 'id': '92cd1a6370d5a26da44f8be2b75d99cd2250b01c', 'name': 'Pisgah Brewing Company', 'rating': 4.7}]",{'line': []},,OK
-130,"[{'geometry': {'location': {'lat': 53.5976747, 'lng': -2.8298845}}, 'id': '3ab6b41bd28077d53219f767889a632bbac8ac44', 'name': 'The Ship Inn', 'rating': 4.5}]",{'line': []},,OK
-131,"[{'geometry': {'location': {'lat': 46.8178912, 'lng': -71.2180951}}, 'id': '35fb6c082bef4ee561e5fca250654ae2e8c41d1d', 'name': 'La Barberie', 'rating': 4.6}]",{'line': []},,OK
-132,"[{'geometry': {'location': {'lat': 43.2085271, 'lng': -123.3446373}}, 'id': 'd162e7d65ed4d5322d4ea54f425d0588d06731ba', 'name': 'Draper Draft House', 'rating': 4.9}]",{'line': []},,OK
-133,"[{'geometry': {'location': {'lat': -25.2856488, 'lng': -57.5892035}}, 'id': '878cf7c42107238010e382702a1030eea0a0a33a', 'name': 'Sacramento Brewing Co.', 'rating': 4.4}]",{'line': []},,OK
-134,"[{'geometry': {'location': {'lat': 33.7593014, 'lng': -118.1482119}}, 'id': '61a509e90dc5b282988717b47015e5727f4beca8', 'name': 'Belmont Brewing Co', 'rating': 4.4}]",{'line': []},,OK
-135,"[{'geometry': {'location': {'lat': -43.5464296, 'lng': 172.5628003}}, 'id': '2aea935c31e2c6df774da313517f739b57df9b1a', 'name': 'The Twisted Hop Real Ale Brewery', 'rating': 3.8}]",{'line': []},,OK
-136,"[{'geometry': {'location': {'lat': 36.675964, 'lng': -121.6550822}}, 'id': '30299928dfccb4a82ff20b53aabcdbcefdbf9d82', 'name': 'Monterey Coast Brewing', 'rating': 4.2}]",{'line': []},,OK
-137,[],{'line': []},,ZERO_RESULTS
-138,"[{'geometry': {'location': {'lat': 40.5161997, 'lng': -75.7781007}}, 'id': 'bb72224641653bf60b5581545b4d84e6e023381a', 'name': 'Kutztown Tavern', 'rating': 4.3}]",{'line': []},,OK
-139,"[{'geometry': {'location': {'lat': 55.0037911, 'lng': -1.4871712}}, 'id': '66d9a441db04d8faac3b4ae7ef6683a5dc3cb4cc', 'name': 'Mordue Brewery', 'rating': 4}]",{'line': []},,OK
-140,"[{'geometry': {'location': {'lat': 46.269764, 'lng': -118.148514}}, 'id': 'fc09f866c538a3bb09babe3834b80d101614f984', 'name': 'Laht Neppur Brewing Co', 'rating': 4.7}]",{'line': []},,OK
-141,[],{'line': []},,ZERO_RESULTS
-142,"[{'geometry': {'location': {'lat': 41.0584046, 'lng': -74.022847}}, 'id': '72217723ca96d14c3a2e113a112070e763c18cd1', 'name': 'Defiant Brewing Co', 'rating': 4.4}]",{'line': []},,OK
-143,[],{'line': []},,ZERO_RESULTS
-144,"[{'geometry': {'location': {'lat': 37.0998883, 'lng': -76.39447969999999}}, 'id': '9872ab6cd861a2702ff60c13158de3326d4d9902', 'name': 'St. George Brewing Company', 'rating': 4.6}]",{'line': []},,OK
+113,[],{'line': []},,ZERO_RESULTS
+114,[],{'line': []},,ZERO_RESULTS
+115,"[{'geometry': {'location': {'lat': 37.5313948, 'lng': -77.42599589999999}}, 'id': 'd3c8099d9380b45c3debe59cd50321e45f4fc766', 'name': 'Richbrau Brewing', 'rating': 0}]",{'line': []},,OK
+116,"[{'geometry': {'location': {'lat': 43.309619, 'lng': -73.644801}}, 'id': '5a4fda540cfd073c6ec7003f49bdf0482d46f680', 'name': 'Davidson Brothers Brewpub', 'rating': 3.8}]",{'line': []},,OK
+117,"[{'geometry': {'location': {'lat': 46.2109842, 'lng': -119.1192539}}, 'id': 'fcf4eef94dc44bdd1b85e5b252c20c75bbe2f716', 'name': 'Ice Harbor Brewing Company', 'rating': 4.4}]",{'line': []},,OK
+118,"[{'geometry': {'location': {'lat': 38.7381794, 'lng': -90.30232559999999}}, 'id': 'f1ccf6ef3b41a7ec2873f0bb06caf63aff4337c6', 'name': 'Ferguson Brewing Company', 'rating': 4.6}]",{'line': []},,OK
+119,"[{'geometry': {'location': {'lat': 38.9512173, 'lng': -92.32797860000001}}, 'id': '2a4cae2eda24a0d7a1475aed8b7cecc5f37379a4', 'name': 'Broadway Brewery', 'rating': 4.3}]",{'line': []},,OK
+120,"[{'geometry': {'location': {'lat': 40.8567085, 'lng': -124.088885}}, 'id': '31fc69c671829c036626790466e3d2207ed6a513', 'name': 'Redwood Curtain Brewing Company', 'rating': 4.8}]",{'line': []},,OK
+121,"[{'geometry': {'location': {'lat': 36.7288682, 'lng': -108.205411}}, 'id': '1a3ece05352e4006fb0cebb1096f2d6287643c85', 'name': 'Three Rivers Eatery & Brewhouse', 'rating': 4.3}]",{'line': []},,OK
+122,"[{'geometry': {'location': {'lat': 43.0334723, 'lng': -87.9094665}}, 'id': 'feccb3ec36878cdd977b8ce9904526d6e9c394b5', 'name': 'Milwaukee Ale House', 'rating': 4.3}]",{'line': []},,OK
+123,[],,Invalid request. One of the input parameters contains a non-UTF-8 string.,INVALID_REQUEST
+124,"[{'geometry': {'location': {'lat': 38.01651, 'lng': -81.11368}}, 'id': 'a6ff271515febec05c188e7e8aab7770efec65a2', 'name': 'Bridge Brew Works', 'rating': 4.6}]",{'line': []},,OK
+125,"[{'geometry': {'location': {'lat': 38.950139, 'lng': -92.332031}}, 'id': '610a8d76db0b5330b2fb17bb72e5135604c894d1', 'name': 'Flat Branch Pub & Brewing', 'rating': 4.5}]",{'line': []},,OK
+126,"[{'geometry': {'location': {'lat': 34.2357747, 'lng': -77.94890869999999}}, 'id': 'bccc9047a11601a8e858d41a33d10432baada379', 'name': 'Front Street Brewery', 'rating': 4.5}]",{'line': []},,OK
+127,"[{'geometry': {'location': {'lat': 38.2586621, 'lng': -122.0600408}}, 'id': '82e866592b62f537b3258c2d4c032749c46e28c3', 'name': 'Blue Frog Grog & Grill', 'rating': 4.1}]",{'line': []},,OK
+128,"[{'geometry': {'location': {'lat': 40.4885697, 'lng': -84.3167383}}, 'id': '78eb13f9cb73fe3af206d4c498b9d63f1971fadb', 'name': 'Hoge Lumber Company', 'rating': 4.5}]",{'line': []},,OK
+129,"[{'geometry': {'location': {'lat': 47.6255374, 'lng': -122.3517889}}, 'id': 'c898bd8a3180dd091c2edcb63ac1cca5a488bda1', 'name': 'McMenamins Queen Anne', 'rating': 4.2}]",{'line': []},,OK
+130,"[{'geometry': {'location': {'lat': 35.98795, 'lng': -80.004282}}, 'id': '6456936f19c34fb92e3ab6040d3df78597a9e314', 'name': 'Liberty Brewery and Grill', 'rating': 3.9}, {'geometry': {'location': {'lat': 33.7161717, 'lng': -78.8825737}}, 'id': '862bc285b31bfe42910858487a63808f8eecc9fb', 'name': 'Liberty Brewery & Grill', 'rating': 4}]",{'line': []},,OK
+131,"[{'geometry': {'location': {'lat': 47.12207900000001, 'lng': -88.568758}}, 'id': 'd6313fdb9bbb90ecbe3c2c8cffe093c3c1623597', 'name': 'Keweenaw Brewing Company Taproom', 'rating': 4.8}]",{'line': []},,OK
+132,"[{'geometry': {'location': {'lat': 40.5161997, 'lng': -75.7781007}}, 'id': 'bb72224641653bf60b5581545b4d84e6e023381a', 'name': 'Kutztown Tavern', 'rating': 4.3}]",{'line': []},,OK
+133,"[{'geometry': {'location': {'lat': 44.0814027, 'lng': -103.2275762}}, 'id': '06c3db60fc14d7746b2a3e47bc4ad83b397c35ff', 'name': 'Firehouse Brewing Company', 'rating': 3.9}]",{'line': []},,OK
+134,[],{'line': []},,ZERO_RESULTS
+135,"[{'geometry': {'location': {'lat': 37.3876487, 'lng': -121.9924739}}, 'id': '52c5c9e79a756aed4c1ac33b599db19f1ca6eca5', 'name': 'Faultline Brewing Company', 'rating': 4}]",{'line': []},,OK
+136,"[{'geometry': {'location': {'lat': 61.217774, 'lng': -149.8966669}}, 'id': '6f2871dd4a3334b0c183a657f91059214ef13037', 'name': 'Glacier Brewhouse', 'rating': 4.3}]",{'line': []},,OK
+137,"[{'geometry': {'location': {'lat': 35.5961621, 'lng': -82.55328659999999}}, 'id': 'a2db4dcdda9095dcde5c0e5a1beb834892a5fe2f', 'name': 'Lexington Avenue Brewery', 'rating': 4}]",{'line': []},,OK
+138,"[{'geometry': {'location': {'lat': 46.269764, 'lng': -118.148514}}, 'id': 'fc09f866c538a3bb09babe3834b80d101614f984', 'name': 'Laht Neppur Brewing Co', 'rating': 4.7}]",{'line': []},,OK
+139,"[{'geometry': {'location': {'lat': -43.5464296, 'lng': 172.5628003}}, 'id': '2aea935c31e2c6df774da313517f739b57df9b1a', 'name': 'The Twisted Hop Real Ale Brewery', 'rating': 3.8}]",{'line': []},,OK
+140,[],{'line': []},,ZERO_RESULTS
+141,"[{'geometry': {'location': {'lat': 34.756946, 'lng': -77.947752}}, 'id': 'f7646534e9b7053aff9480ec1aa7d8dca2ce5d4b', 'name': 'Mad Boar Restaurant', 'rating': 4}, {'geometry': {'location': {'lat': 33.798281, 'lng': -78.740517}}, 'id': 'ceaa19ebd398577396aeb2d2afc99830bbb80fcf', 'name': 'Mad Boar Restaurant & Brewery', 'rating': 0}]",{'line': []},,OK
+142,"[{'geometry': {'location': {'lat': 33.8356883, 'lng': -118.1847058}}, 'id': 'b8bd1c05cab0005b473760a3f0d484504bc711a7', 'name': 'Knolls Restaurant', 'rating': 4.3}, {'geometry': {'location': {'lat': 34.051477, 'lng': -118.2567737}}, 'id': 'ece0415fcf946425c75aa158afd5b8d0c3b62c17', 'name': 'Weiland Brewery Underground', 'rating': 4.3}]",{'line': []},,OK
+143,"[{'geometry': {'location': {'lat': 36.675964, 'lng': -121.6550822}}, 'id': '30299928dfccb4a82ff20b53aabcdbcefdbf9d82', 'name': 'Monterey Coast Brewing', 'rating': 4.2}]",{'line': []},,OK
+144,[],{'line': []},,ZERO_RESULTS
