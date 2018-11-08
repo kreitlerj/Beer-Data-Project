@@ -1,0 +1,16 @@
+Questions to answer
+
+1) Top Ten most rated beer types - bar chart
+
+2) Greatest affect on overall rating:
+Scatter Plot overall rating vs. aroma rating
+Scatter Plot overall rating vs. palate rating
+Scatter Plot overall rating vs. ABU
+Scatter Plot overall rating vs. appearance rating
+Scatter Plot overall rating vs. taste rating
+
+3) Heat map breweries
+
+4) Top rated beers
+
+5) Top rated breweries
