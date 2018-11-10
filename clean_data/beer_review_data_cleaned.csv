@@ -1,4 +1,4 @@
-,brewery_name,beer_style,brewery_id,review_time,average_review,review_aroma,review_appearance,review_palate,review_taste,beer_abv,beer_beerid,beer_name,review_count,review_count_slices
+,brewery_name,beer_style,brewery_id,review_time,review_overall,review_aroma,review_appearance,review_palate,review_taste,beer_abv,beer_beerid,beer_name,review_count,review_count_slices
 947,Dogfish Head Brewery,American Double / Imperial IPA,10099.0,1212149317.4878418,4.145744680851064,4.213525835866261,4.19209726443769,4.18176291793313,4.325987841945289,9.0,2093,90 Minute IPA,3290.0,2585 and up
 42967,North Coast Brewing Co.,Russian Imperial Stout,112.0,1218958049.2285438,4.174220507875281,4.198649951783993,4.37399549983928,4.231758277081324,4.342172934747669,9.0,412,Old Rasputin Russian Imperial Stout,3111.0,2585 and up
 53469,Sierra Nevada Brewing Co.,American IPA,140.0,1211116463.137,4.168666666666667,4.082333333333334,4.2251666666666665,4.076,4.19,6.799999999999617,1904,Sierra Nevada Celebration Ale,3000.0,2585 and up
