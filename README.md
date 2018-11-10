@@ -9,7 +9,7 @@
 
 # Write Up
 
-This project was based on a beer review dataset found on Kaggle. It can be found here: https://www.kaggle.com/rdoume/beerreviews.  The dataset includes roughly 1.5 million beer reviews from beers all over the world. The source of the data comes from Beer Advocate,https://www.beeradvocate.com/.
+This project was based on a beer review dataset found on Kaggle. It can be found here: https://www.kaggle.com/rdoume/beerreviews.  The dataset includes roughly 1.5 million beer reviews from beers all over the world. The source of the data comes from Beer Advocate, https://www.beeradvocate.com/.
 
 The purpose of this project was to determine what factors affect a beer's review rating the most.  The analysis is trying to help a person create a great beer that will have rave reviews.  The project takes a look at three different questions, two of them specifically related to the beer and the third to the location of the brewery.
 
