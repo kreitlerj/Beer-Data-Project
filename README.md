@@ -1,5 +1,7 @@
 # Beer-Data-Project
 
+*Group Members: Brandon Fick, Jacob Kreitler, Carlos Soriano, Jacob Lingwall*
+
 *Files - The main files are Beer_Data_Analysis and Beer_Data_Cleaning.  You can find the figures in the plots folder.  Also the cleaned csv files are in the clean_data folder.*
 
 *To be able to run the code you will need to download the dataset separately since it is too big to upload to github.  Be sure to store the csv file in the parent directory from where you store the code or edit the code to read the file from where you end up storing it.*
@@ -27,11 +29,11 @@ The first question we wanted to answer was what the properties of a beer give it
 
 The second question we wanted to answer was what style/type of beer was most popular.  The dataset was sorted and cleaned to create a csv file containing the total reviews each style received, the number of beers of each style, and the average overall rating of each style.  The analysis involved creating bar charts of each of the three categories for the top ten beer styles in each. The total reviews and number of beers charts each showed that an American IPA is the most popular beer.
 
-![Number of Reviews by Beer Style](plots/Number of Reviews by Beer Style.png)
+![Number_of_Reviews_by_Beer_Style](plots/Number_of_Reviews_by_Beer_Style.png)
 
-![Number of Beers by Style](plots/Number of Beers by Style.png)
+![Number_of_Beers_by_Style](plots/Number_of_Beers_by_Style.png)
 
-![Average Overal Beer Rating by Style](plots/Average Overal Beer Rating by Style.png)
+![Average_Overall_Beer_Rating_by_Style](plots/Average_Overall_Beer_Rating_by_Style.png)
 
 ### Question 3:
 
